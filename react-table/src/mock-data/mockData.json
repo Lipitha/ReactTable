@@ -1,0 +1,65 @@
+[{
+    "id" : 1,
+    "firstName" : "Lipitha",
+    "lastName" : "A",
+    "qualification" : "MCA",
+    "age" : "26"
+},
+{
+    "id" : 2,
+    "firstName" : "shyamala",
+    "lastName" : "A",
+    "qualification" : "MCA",
+    "age" : "29"
+},
+{
+    "id" : 3,
+    "firstName" : "lasya",
+    "lastName" : "A",
+    "qualification" : "MCA",
+    "age" : "22"
+},
+{
+    "id" : 4,
+    "firstName" : "sari",
+    "lastName" : "A",
+    "qualification" : "BCOM",
+    "age" : "31"
+},
+{
+    "id" : 5,
+    "firstName" : "Ananda",
+    "lastName" : "A",
+    "qualification" : "BBA",
+    "age" : "30"
+},
+{
+    "id" : 6,
+    "firstName" : "Mani",
+    "lastName" : "A",
+    "qualification" : "SSLC",
+    "age" : "35"
+},
+{
+    "id" : 7,
+    "firstName" : "chitra",
+    "lastName" : "A",
+    "qualification" : "MCA",
+    "age" : "27"
+},
+{
+    "id" : 8,
+    "firstName" : "akshatha",
+    "lastName" : "A",
+    "qualification" : "BCOM",
+    "age" : "29"
+},
+{
+    "id" : 9,
+    "firstName" : "Aswini",
+    "lastName" : "A",
+    "qualification" : "MBA",
+    "age" : "31"
+}
+]
+
